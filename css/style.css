@@ -98,7 +98,7 @@ body {
 .chapter-header {
   display: block;
   text-align: center;
-  font-size: 1.2em;
+  font-size: 1.5em;
   padding: 0 5px;
 }
 
@@ -114,7 +114,7 @@ a.source:visited {
 .description {
   margin: 20px;
   text-align: left;
-  font-size: 11pt;
+  font-size: 12pt;
   padding: 20px;
 }
 
