@@ -461,7 +461,7 @@ $(window).on('load', function() {
     }
 
 
-  };
+  }
 
 
   
