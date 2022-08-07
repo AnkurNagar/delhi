@@ -482,9 +482,7 @@ $(window).on('load', function() {
       credit += ' | ';
     }
 
-    credit += 'View <a href="' + getSetting('_githubRepo') + '">code</a>';
-    if (getSetting('_codeCredit')) credit += ' by ' + getSetting('_codeCredit');
-    credit += ' with ';
+    credit += 'Map: ';
     $('.leaflet-control-attribution')[0].innerHTML = credit + attributionHTML;
   }
 
