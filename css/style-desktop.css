@@ -8,8 +8,8 @@
   }
 
   #map {
-    width: calc(100vw - 760px);
-    left: 760px;
+    width: calc(100vw - 800px);
+    left: 800px;
     height: 100vh;
     border: 0;
     z-index: 0;
