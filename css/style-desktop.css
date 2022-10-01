@@ -1,4 +1,4 @@
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1200px) {
 
   #narration {
     width: 60vw;
@@ -9,7 +9,7 @@
 
   #map {
     width: calc(100vw - 800px);
-    
+    left: 800px;
     height: 100vh;
     border: 0;
     z-index: 0;
